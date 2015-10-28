@@ -1,0 +1,13 @@
+.login-bg-img{
+	background: url("../img/testback.jpg") no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+
+}
+.center-align{
+	text-align: center
+}
+.full-width{
+	size:500%;
+}
